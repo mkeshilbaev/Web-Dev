@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/ServletExample"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="Java EE 6-Java EE 6" value="project"/>
+		<level name="mysql-connector-java-5.1.18-bin" value="project"/>
+	</levels>
+</component>

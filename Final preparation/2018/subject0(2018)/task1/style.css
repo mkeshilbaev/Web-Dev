@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#p1{
+	color: pink;	
+}
+
+.line {
+   border-left: thick solid #ff0000;
+   background: linear-gradient(90deg, red, blue, red);
+ }
+ 

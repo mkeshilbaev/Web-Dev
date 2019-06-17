@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AspMVCex",
+    "\\AspMVCex\\AspMVCex",
+    "\\AspMVCex\\AspMVCex\\App_Start",
+    "\\AspMVCex\\AspMVCex\\Controllers",
+    "\\AspMVCex\\AspMVCex\\DataAbstractionLayer",
+    "\\AspMVCex\\AspMVCex\\Models",
+    "\\AspMVCex\\AspMVCex\\Views",
+    "\\AspMVCex\\AspMVCex\\Views\\Main"
+  ],
+  "SelectedNode": "\\AspMVCex\\AspMVCex\\App_Start\\RouteConfig.cs",
+  "PreviewInSolutionExplorer": false
+}

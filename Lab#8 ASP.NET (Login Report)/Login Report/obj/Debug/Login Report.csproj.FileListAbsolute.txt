@@ -1,0 +1,77 @@
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\Login Report.dll.config
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\Login Report.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\Login Report.pdb
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\csc.exe
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\csc.exe.config
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\csc.rsp
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\csi.exe
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\csi.exe.config
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\csi.rsp
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.AppContext.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Collections.Immutable.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Console.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.IO.Compression.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.IO.FileSystem.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.IO.Pipes.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Reflection.Metadata.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Security.AccessControl.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Security.Claims.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Security.Principal.Windows.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.ValueTuple.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Xml.XPath.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\vbc.exe
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\vbc.exe.config
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\vbc.rsp
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\VBCSCompiler.exe
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\roslyn\VBCSCompiler.exe.config
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\EntityFramework.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\EntityFramework.SqlServer.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\Microsoft.Web.Infrastructure.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Helpers.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Mvc.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Razor.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Webpages.Deployment.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Webpages.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Webpages.Razor.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\EntityFramework.xml
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\EntityFramework.SqlServer.xml
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Razor.xml
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Webpages.xml
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Webpages.Deployment.xml
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Webpages.Razor.xml
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Helpers.xml
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\System.Web.Mvc.xml
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\obj\Debug\Login Report.csprojAssemblyReference.cache
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\obj\Debug\Login Report.csproj.CoreCompileInputs.cache
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\obj\Debug\Login Report.csproj.CopyComplete
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\obj\Debug\Login Report.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\obj\Debug\Login Report.pdb
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\PagedList.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\PagedList.Mvc.dll
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\PagedList.xml
+D:\UBBcluj\Web\Lab#8 ASP.NET (Login Report)\Login Report\bin\PagedList.Mvc.xml

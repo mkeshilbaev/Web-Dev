@@ -1,0 +1,153 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+input[type=text] {
+  width: 16%;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 2px;
+  font-size: 16px;
+  font-color:white;
+  font-family: palatino;
+  background-color: black;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 4px 4px 15px 15px;
+}
+
+.tablink {
+  background-color: rgb(64, 64, 64);
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  padding: 11px 16px;
+  font-size: 14px;
+  width: 12%;
+}
+
+.tablink1{
+  background-color: white;
+  margin-left: 135px;
+  color: rgb(179, 0, 0);
+  float: left;
+  border: none;
+  outline: none;
+  padding: 15px 10px;
+  font-size: 21px;
+  width: 12.2%;
+}
+.tablink2{
+  background-color: white;
+  margin-right: 135px;
+  color: rgb(179, 0, 0);
+  float: right;
+  border: none;
+  outline: none;
+  padding: 15px 10px;
+  font-size: 21px;
+  width: 10%;
+}
+
+.span{
+	color: white;
+	text-align: center;
+}
+
+.aboutHarvard{
+	font-family: palatino;
+	color:	rgb(64, 64, 64);
+	margin-left: 220px;
+	font-weight: 1;
+	font-size: 50px;
+}
+
+.text{
+	font-family: palatino;
+	font-size: 20px;
+	font-weight: 1;
+	color:rgb(64, 64, 64);
+}
+
+.floating{
+	float:left;
+	margin-left: 220px;
+}
+
+.floating1{
+	float: right;
+	margin-right: 250px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.list{
+	font-family: verdana;
+	font-size: 15px;
+	color:		rgb(134, 45, 45);
+}
+
+.h2{
+	font-family: times;
+	font-size: 30px;
+	color: 	rgb(161, 18, 18);
+	font-style: bold;
+}
+
+.blackHeading{
+	font-family: 'Merriweather Sans Bold', Arial, sans-serif;
+	font-size: 22px;
+	color: 		rgb(64, 64, 64);
+	font-weight: 600;
+}
+
+.news{
+	background-color: rgb(0, 40, 77);
+	font-family: palatino;
+	padding: 60px;
+	font-size: 30px;
+	font-weight: 1;
+	color: white;
+}
+
+.box{
+  background-color: white;
+  color: black;
+  font-size: 18px;
+  margin-left: 50px;
+  width: 370px;
+  height: 220px;
+  border: 5px solid rgb(128, 0, 0); 
+  padding: 30px;
+}
+
+.floating3{
+	float: left;
+	margin-right: 13px;
+}
+
+.floating4{
+	float: right;
+}
+
+.column {
+  float: left;
+  width: 10%;
+  padding: 10px;
+  height: 222px; /* Should be removed. Only for demonstration */
+  margin-left: 110px;
+}
+
+.footer{
+	background-color: 	rgb(64, 64, 64);
+	position: relative;
+	height: 400px;
+	color:		rgb(204, 204, 204);
+}

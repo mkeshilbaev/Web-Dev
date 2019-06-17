@@ -1,0 +1,22 @@
+.grad1{
+	height: 1000px;
+    background-image: linear-gradient(to right, white, red, white);
+}
+
+.move {
+  width: 100px;
+  height: 10px;
+  background: blue;
+  transition: 7s;
+}
+
+.move:hover {
+	background: red;
+	transform: translate(-1410px,650px);
+    -webkit-transform: translate(1410px,650px);
+}
+
+
+
+
+

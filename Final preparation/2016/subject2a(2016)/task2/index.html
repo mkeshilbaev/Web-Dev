@@ -1,0 +1,39 @@
+    <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Click and get divs</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+    
+</head>
+
+<body style="width: 100vw; height: 100vw">
+
+    <script>
+        $(document).ready(function()
+        {
+            $("body").click(function()
+            {
+                var divs = document.getElementsByTagName("div");
+                console.log("divs");
+                if (divs.length < 10)
+                {
+                    var div = document.createElement('div');
+                    div.style.backgroundColor = "red";
+                    div.style.width = "100px";
+                    div.style.height = "100px";
+                    document.body.appendChild(div);
+                }
+                else
+                    alert( "You are done!" );
+            });
+        });        
+    </script>
+ 
+</body>
+
+</html>

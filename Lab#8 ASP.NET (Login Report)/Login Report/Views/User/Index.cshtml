@@ -1,0 +1,56 @@
+﻿@model IPagedList<Login_Report.Models.Users>
+
+@{
+	ViewBag.Title = "Log Report";
+}
+
+@using PagedList.Mvc;
+@using PagedList;
+
+<h2>Log Report</h2>
+
+<table class="table">
+	<tr>
+		<th>
+			@Html.DisplayNameFor(model => model.First().UserID)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.First().FirstName)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.First().LastName)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.First().EmailID)
+		</th>		
+	</tr>
+
+	@foreach (var item in Model)
+	{
+		<tr>
+			<td>
+				@Html.DisplayFor(modelItem => item.UserID)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.FirstName)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.LastName)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.EmailID)
+			</td>			
+			<td>
+				@Html.ActionLink("Delete", "Delete" , new { id = item.UserID } )
+			</td>
+		</tr>
+	}
+
+</table>
+
+
+<div>
+	@Html.ActionLink("Logout", "Login", "User")
+</div>
+
+@Html.PagedListPager(Model, i => Url.Action("Index", "User", new { i }))

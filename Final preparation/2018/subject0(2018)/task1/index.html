@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Final preparation</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+    <div class="line"></div>
+
+	<div id="div1">
+		<p id="p1">jQuery was created in 2006 by John Resig. It was designed to handle Browser Incompatibilities and to simplify HTML DOM Manipulation, Event Handling, Animations, and Ajax.
+    For more than 10 years, jQuery has been the most popular JavaScript library in the world.
+    However, after JavaScript Version 5 (2009), most of the jQuery utilities can be solved with a few lines of standard JavaScript:</p>
+	</div>
+	<span>Hello world from span</span>
+	<a href="https://google.com">Press me</a>
+
+    <script>
+        var para = document.createElement("h1");
+        var node = document.createTextNode("Hello World");
+        para.appendChild(node);
+
+        var element = document.getElementById("div1");
+        var child = document.getElementById("p1");
+        element.insertBefore(para, child);
+  
+        document.getElementById("p1").style.backgroundColor = 'green';
+
+
+        
+        var paragraphs = document.getElementsByTagName("*");
+            var words = [];
+            var nr_words = [];
+            var i;
+            var j;
+            var nr_char;
+            for( i = 0; i < paragraphs.length; i++){
+                words.push(paragraphs[i].innerHTML.split(' '));
+                nr_char = 0;
+                for( j = 0; j < words.length; j++){
+                    nr_char += words[j].length;
+                }
+                //nr_words.push(nr_char);
+                console.log(nr_char.length);
+            }
+
+       // let words = document.getElementsByTagName(tagName).reduce((acc, item) => acc+item.innerText);
+
+
+        
+/*
+        var array = [];
+        var elements = document.body.getElementsByTagName("*");
+        var div1 = document.createElement("div");
+        var div2 = document.createElement("div"); 
+        for(var i = 0; i < elements.length; i++) 
+        {
+           //var current = ;
+          // if(current.children.length === 0 && current.textContent.replace(/ |\n/g,'') !== '') 
+         //  {
+            array.push(elements[i].innerHTML.split(' '));
+            var node1 = document.createTextNode(array[i]);
+            var node2 = document.createTextNode(array[i + 1]);            
+         // }
+        } 
+        div1.appendChild(node1);
+        div2.appendChild(node2);
+       // console.log(array.length);
+    */
+
+        
+    </script>
+
+</body>
+</html>
